@@ -1,0 +1,8 @@
+C:\Users\Ale\Documents\Visual Studio 2013\Projects\Programacion\Programacion\bin\Debug\Programacion.exe
+C:\Users\Ale\Documents\Visual Studio 2013\Projects\Programacion\Programacion\bin\Debug\Programacion.pdb
+C:\Users\Ale\Documents\Visual Studio 2013\Projects\Programacion\Programacion\obj\Debug\Programacion.Form1.resources
+C:\Users\Ale\Documents\Visual Studio 2013\Projects\Programacion\Programacion\obj\Debug\Programacion.Properties.Resources.resources
+C:\Users\Ale\Documents\Visual Studio 2013\Projects\Programacion\Programacion\obj\Debug\Programacion.csproj.GenerateResource.Cache
+C:\Users\Ale\Documents\Visual Studio 2013\Projects\Programacion\Programacion\obj\Debug\Programacion.exe
+C:\Users\Ale\Documents\Visual Studio 2013\Projects\Programacion\Programacion\obj\Debug\Programacion.pdb
+C:\Users\Ale\Documents\Visual Studio 2013\Projects\Programacion\Programacion\obj\Debug\Programacion.csprojResolveAssemblyReference.cache
