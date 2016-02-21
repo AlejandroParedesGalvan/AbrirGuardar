@@ -20,7 +20,7 @@ namespace Programacion
         {
             if(saveFileDialog1.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                File.WriteAllText(saveFileDialog1.FileName + "Textos |*.txt", richTextBox1.Text);
+                File.WriteAllText(saveFileDialog1.FileName + ".txt", richTextBox1.Text);
                 MessageBox.Show("Archivo guardado");
             }
             richTextBox1.Clear();
